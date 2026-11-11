@@ -1,0 +1,70 @@
+{
+  "name": "MARVEL TV SERIES",
+  "image": "https://deadline.com/wp-content/uploads/2024/05/marvel-television.jpg?w=681&h=383&crop=1",
+  "stations": [
+    {
+      "name": "Ep_1",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_1.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_2",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_2.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_3",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_3.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_4",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_4.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_5",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_5.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_6",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_6.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_7",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_7.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Ep_8",
+      "image": "https://www.series4kk.com/storage/posters/visionquest-2026-ep1-8-05278769.webp",
+      "info": "พากย์ไทย",
+      "url": "https://raw.githubusercontent.com/prachyak13/movies_Y/refs/heads/main/vision_quest_2026/Ep_8.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    }
+  ]
+}
